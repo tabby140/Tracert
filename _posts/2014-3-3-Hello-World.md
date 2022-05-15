@@ -5,5 +5,5 @@ published: true
 ---
 ## This is my first website
 
-![img.jpeg]({{site.baseurl}}/_posts/img.jpeg)
+![img.jpeg]({{site.baseurl}}/image/img.jpeg)
 
