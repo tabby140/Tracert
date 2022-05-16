@@ -3,5 +3,4 @@ layout: post
 title: You're up and running!
 published: true
 ---
-## This is my first website
-
+![]({{site.baseurl}}/_posts/img.png)## This is my first website
